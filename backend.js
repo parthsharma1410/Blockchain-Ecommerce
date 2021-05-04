@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 mongoose.connect(
- 'your connection string',{useNewUrlParser: true, useUnifiedTopology: true}
+'mongodb+srv://test:test123@blockchain-ecommerce.p3ppw.mongodb.net/test',
+ {useNewUrlParser: true, useUnifiedTopology: true}
 );
 
 const paymentScheme = new mongoose.Schema({
