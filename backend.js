@@ -4,13 +4,13 @@ mongoose.connect(
  {useNewUrlParser: true, useUnifiedTopology: true}
 );
 
-const paymentScheme = new mongoose.Schema({
+const paymentSchema = new mongoose.Schema({
     id: String,
     itemId: String,
     paid: Boolean
 });
 
-const Payment = mongoose.model('Payment', paymentScheema);
+const Payment = mongoose.model('Payment', paymentSchema);
 
 module.exports = {
     Payment
