@@ -1,0 +1,27 @@
+{
+  "name": "Blockchain-Ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthsharma1410/Blockchain-Ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parthsharma1410/Blockchain-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/parthsharma1410/Blockchain-Ecommerce#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
+}
