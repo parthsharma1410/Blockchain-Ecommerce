@@ -1,0 +1,195 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.navbarcss {
+  display: flex;
+  height: 20vh;
+  background-color: white;
+}
+
+.navbarcss:active {
+  color: rgb(108, 42, 139);
+}
+
+.brand {
+  padding-right: 30%;
+  padding-left: 7%;
+  padding-top: 2%;
+  font-family: "Pacifico", cursive;
+  color: rgb(108, 42, 139);
+  font-size: 2rem;
+}
+
+.brand a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.brand a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnlogin {
+  border-radius: 5px;
+  border-style: none;
+  width: 30%;
+  height: 30%;
+  color: white;
+  background-color: rgb(108, 42, 139);
+  margin-left: 40%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.btnlogin a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnlogin a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btngetstarted {
+  border-radius: 5px;
+  border-style: none;
+  width: 23.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(108, 42, 139);
+  padding-left: 3%;
+  padding-right: 3%;
+  margin-bottom: 20%;
+}
+
+.btngetstarted a {
+  padding: 10%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btngetstarted a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.heading {
+  font-family: "Poppins", sans-serif;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-weight: bold;
+}
+
+p {
+  padding-bottom: 10%;
+}
+
+.btnsubmit {
+  border-radius: 5px;
+  border-style: none;
+  width: 23.5rem;
+  height: 3rem;
+  color: white;
+  background-color: rgb(108, 42, 139);
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.btnsubmit a {
+  padding: 10%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.btnsubmit a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.flexbox {
+  display: flex;
+  padding-left: 0px;
+  margin-left: 0%;
+}
+
+img {
+  padding-left: 20%;
+  height: 70%;
+}
+
+.imgcolumn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textcolumn {
+  flex-grow: 2;
+}
+
+.imgclock {
+  padding-top: 20%;
+  padding-left: 70%;
+}
+
+@media screen and (max-width: 800px) {
+  .flexbox {
+    display: block;
+  }
+  .img {
+    padding-left: 18%;
+    height: 29%;
+    width: 128%;
+  }
+}
+
+a {
+  padding-left: 10%;
+}
+
+.mid {
+  padding-top: 3%;
+}
+
+.mid a {
+  padding-left: 10%;
+  text-decoration: none;
+  color: #282c34;
+}
+
+.unflex {
+  display: block;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  height: 30%;
+  padding-top: 5%;
+  padding-right: 15%;
+}

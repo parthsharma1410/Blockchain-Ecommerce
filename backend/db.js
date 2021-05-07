@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
+
 mongoose.connect(
-'mongodb+srv://test:test123@blockchain-ecommerce.p3ppw.mongodb.net/test',
+'mongodb+srv://Parth:parth@mongo@cluster0.zvbyt.mongodb.net/Blockchain-Ecommerce?retryWrites=true&w=majority',
  {useNewUrlParser: true, useUnifiedTopology: true}
 );
 
