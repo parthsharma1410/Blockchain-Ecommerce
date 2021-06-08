@@ -28,5 +28,8 @@ PaymentProcessor smart contract and the ERC20 token contract where the
 actual payments are done and validated.
 
 # UI Screenshots
-![Home](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart1.PNG?raw=true)
- 
+![pic-2](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart1.PNG?raw=true)
+![pic-2](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart2.PNG?raw=true)
+![pic-3](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart3.PNG?raw=true)
+![pic-4](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart4.PNG?raw=true)
+![pic-5](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart5.PNG?raw=true)
