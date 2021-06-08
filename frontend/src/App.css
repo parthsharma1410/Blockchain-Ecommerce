@@ -188,6 +188,11 @@ ul {
   list-style: none;
 }
 
+.product {
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+
 img {
   height: 30%;
   padding-top: 5%;
