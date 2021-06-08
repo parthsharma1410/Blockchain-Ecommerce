@@ -27,4 +27,6 @@ And finally we have the Etherum blockchain which consists of the
 PaymentProcessor smart contract and the ERC20 token contract where the
 actual payments are done and validated.
 
-Teammates: 19BCE0761 | PARTH SHARMA & 19BCT0235 | JAYDEV JANGITI.
+# UI Screenshots
+![Home](https://github.com/parthsharma1410/Blockchain-Ecommerce/blob/main/ui-screenshots/e-cart1.PNG?raw=true)
+ 
