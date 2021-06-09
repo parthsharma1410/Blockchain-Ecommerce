@@ -11,7 +11,7 @@ This project incorporates the following technologies: \
 • Front End (HTML, CSS, BootStrap, Javascript, React JS) \
 • Back End (Node JS, KOA Framework, Mongo DB) 
 
-We have used HTML CSS and JavaScript to make the UI E-commerce website
+I have used Reactjs to make the UI E-commerce website
 and we have used DAI cryptocurrency for the payments.
 For designing and coding the smart contracts in our application we have used
 Solidity, OpenZeppelin and Truffle.
