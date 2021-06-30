@@ -2,7 +2,7 @@
 
 ## A Blockchain E-commerce Website
 
-This project enables a website to carry out payments in cryptocurrency, <strong>using Smart Contracts<strong> . \
+This project enables a website to carry out payments in cryptocurrency, <strong>using Smart Contracts<strong>. \
 This project incorporates the following technologies: \
 • Etherum Smart Contracts \
 • Solidity \
